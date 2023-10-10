@@ -53,6 +53,12 @@ input[type=email] {
     
 }
 
+.provider-email, span:hover{
+
+  color: pink;
+  transition: all 0.3s ease 0s ;
+}
+
 
 .our-store {
 
