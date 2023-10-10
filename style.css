@@ -47,11 +47,12 @@ input[type=email] {
     text-align: center;
 }
 
-.provide span {
+.provide-email span {
     margin-top: 15px;
     cursor: pointer;
     
 }
+
 
 .our-store {
 
