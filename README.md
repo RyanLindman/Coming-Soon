@@ -1,2 +1,3 @@
 # Coming-Soon
-Exercising CSS
+First Exercise in responsiveness for mobile devices
+
